@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { useOutletContext } from "react-router-dom";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
@@ -8,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { supabase } from "@/integrations/supabase/client";
 import { Alert, AlertTitle, AlertDescription } from "@/components/ui/alert";
-import { Thermometer, Weight, Ruler, HeartPulse } from "lucide-react";
+import { Thermometer, Weight, Ruler, HeartPulse, AlertCircle } from "lucide-react";
 import { Input } from "@/components/ui/input";
 
 // Data untuk demo
