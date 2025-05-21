@@ -1,38 +1,85 @@
-
 // Health records test data
 export const dataKesehatan = [
   { 
     tanggal: "2025-05-21", 
-    suhu: "36.5°C", 
-    beratBadan: "38.5 kg", 
-    tinggiBadan: "142 cm", 
+    suhu: "36.5", 
+    beratBadan: "38.5", 
+    tinggiBadan: "142", 
     perasaan: "Baik",
     status: "normal" 
   },
   { 
     tanggal: "2025-05-20", 
-    suhu: "36.7°C", 
-    beratBadan: "38.5 kg", 
-    tinggiBadan: "142 cm", 
+    suhu: "36.7", 
+    beratBadan: "38.5", 
+    tinggiBadan: "142", 
     perasaan: "Biasa",
     status: "normal" 
   },
   { 
     tanggal: "2025-05-19", 
-    suhu: "37.2°C", 
-    beratBadan: "38.5 kg", 
-    tinggiBadan: "141.8 cm", 
+    suhu: "37.2", 
+    beratBadan: "38.5", 
+    tinggiBadan: "141.8", 
     perasaan: "Kurang Baik",
     status: "perhatian" 
   },
   { 
     tanggal: "2025-05-18", 
-    suhu: "36.6°C", 
-    beratBadan: "38.5 kg", 
-    tinggiBadan: "141.8 cm", 
+    suhu: "36.6", 
+    beratBadan: "38.5", 
+    tinggiBadan: "141.8", 
     perasaan: "Baik",
     status: "normal" 
   },
+  { 
+    tanggal: "2025-05-17", 
+    suhu: "36.4", 
+    beratBadan: "38.3", 
+    tinggiBadan: "141.8", 
+    perasaan: "Baik",
+    status: "normal" 
+  },
+  { 
+    tanggal: "2025-05-16", 
+    suhu: "36.5", 
+    beratBadan: "38.2", 
+    tinggiBadan: "141.5", 
+    perasaan: "Baik",
+    status: "normal" 
+  },
+  { 
+    tanggal: "2025-05-15", 
+    suhu: "36.8", 
+    beratBadan: "38.2", 
+    tinggiBadan: "141.5", 
+    perasaan: "Baik",
+    status: "normal" 
+  },
+  { 
+    tanggal: "2025-05-14", 
+    suhu: "36.6", 
+    beratBadan: "38.0", 
+    tinggiBadan: "141.5", 
+    perasaan: "Biasa",
+    status: "normal" 
+  },
+  { 
+    tanggal: "2025-05-13", 
+    suhu: "36.5", 
+    beratBadan: "38.0", 
+    tinggiBadan: "141.3", 
+    perasaan: "Baik",
+    status: "normal" 
+  },
+  { 
+    tanggal: "2025-05-12", 
+    suhu: "36.3", 
+    beratBadan: "37.8", 
+    tinggiBadan: "141.3", 
+    perasaan: "Baik",
+    status: "normal" 
+  }
 ];
 
 // Complaints data
